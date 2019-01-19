@@ -1,2 +1,3 @@
 # TelgramStartBot
 КастомДед
+False
